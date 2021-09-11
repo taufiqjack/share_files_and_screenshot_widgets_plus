@@ -20,7 +20,7 @@ To use this package :
   dependencies:
     flutter:
       sdk: flutter
-    share_files_and_screenshot_widgets_plus: ^1.0.3
+    share_files_and_screenshot_widgets_plus: ^1.0.4
 ```
 
 ### How to use
